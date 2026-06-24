@@ -17,5 +17,9 @@ A simple task management web application built using HTML, CSS, and JavaScript.
 1. Download the files.
 2. Open `index.html` in your browser.
 
+## Screenshot
+
+![Smart Task Tracker](screenshot.png)
+
 ## Author
 Junaid Iqbal
